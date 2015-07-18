@@ -1,2 +1,2 @@
 # Euler-Python
-My swim at project euler with python
+My swing at project euler with python
